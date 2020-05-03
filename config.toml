@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "The Last Question"
+description = "teste"
+theme = "hugo-swift-theme"
+canonifyurls = true
+paginate = 4
+
+
+[params]
+    blogDir = "post"
