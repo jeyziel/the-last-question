@@ -12,6 +12,7 @@ categories = [
     "Development",
     "golang",
 ]
+author = "jeyziel Gama"
 image = "stuck.jpg"
 +++
 

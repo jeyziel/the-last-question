@@ -1,13 +1,13 @@
----
-title: "Processamento Linguagem Natural"
-date: 2020-05-03T21:15:08-03:00
-draft: true
-author: "jeyziel Gama"
-categories: [
++++
+title = "Processamento Linguagem Natural"
+date = 2020-05-03T21:15:08-03:00
+draft = true
+author = "jeyziel Gama"
+categories = [
     "Machine Learning",
     "NLP"
 ]
----
++++
 
 ## Step 1. Install Hugo
 
@@ -44,4 +44,41 @@ Corresponding pseudo commands:
 Once you've gotten here, follow along the rest of this page on your local build.
 
 ## Step 3. Change the docs site
+
+Stop the Hugo process by hitting Ctrl+C.
+
+Now we are going to run hugo again, but this time with hugo in watch mode.
+
+    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
+    > 29 pages created
+    > 0 tags index created
+    > in 27 ms
+    > Web Server is available at http://localhost:1313
+    > Watching for changes in /Users/spf13/Code/hugo/docs/content
+    > Press ctrl+c to stop
+
+
+Open your [favorite editor](http://vim.spf13.com) and change one of the source
+content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
+
+Content files are found in `docs/content/`. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+`docs/content/overview/quickstart.md`.
+
+Change and save this file.. Notice what happened in your terminal.
+
+    > Change detected, rebuilding site
+
+    > 29 pages created
+    > 0 tags index created
+    > in 26 ms
+
+Refresh the browser and observe that the typo is now fixed.
+
+Notice how quick that was. Try to refresh the site before it's finished building. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
+
+## Step 4. Have fun
+
+The best way to learn something is to play with it.
 
