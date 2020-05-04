@@ -1,7 +1,6 @@
 +++
 title = "Processamento Linguagem Natural"
-date = 2020-05-03T21:15:08-03:00
-draft = true
+date = "2020-05-03"
 author = "jeyziel Gama"
 categories = [
     "Machine Learning",
