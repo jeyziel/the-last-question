@@ -8,4 +8,4 @@ paginate = 4
 
 
 [params]
-    blogDir = "post"
+    #blogDir = "posts"

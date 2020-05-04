@@ -1,8 +1,8 @@
 - item: Inicio
   url: /
-- item: Blog
-  url: ""
 - item: Book Reviews
-  url: "/book-reviews"
-- item: About
+  url: "categories/book-reviews"
+- item: Categorias
+  url: "/categories"
+- item: Sobre-mim
   url: "about/"
