@@ -3,10 +3,8 @@
 - item: Desenvolvimento
   url: "tag/development"
 - item: NLP
-  url: "categories/NLP"
+  url: "tags/NLP"
 - item: Book Reviews
-  url: "categories/book-reviews"
-- item: Categorias
-  url: "/categories"
+  url: "tags/book-reviews"
 - item: Sobre-mim
   url: "about/"
