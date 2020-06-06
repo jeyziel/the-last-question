@@ -1,3 +1,4 @@
 [submodule "themes/hugo-swift-theme"]
 	path = themes/hugo-swift-theme
 	url = https://github.com/onweru/hugo-swift-theme
+	ignore = dirty
