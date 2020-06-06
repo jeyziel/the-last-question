@@ -8,4 +8,4 @@ paginate = 4
 disqusShortname = 'jeyziel-github-io'
 
 [params]
-    blogDir = "post"
+    blogDir = "posts"
