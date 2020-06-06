@@ -5,7 +5,7 @@ description = "teste"
 theme = "hugo-swift-theme"
 canonifyurls = true
 paginate = 4
-
+disqusShortname: 'jeyziel-github-io'
 
 [params]
     #blogDir = "posts"
