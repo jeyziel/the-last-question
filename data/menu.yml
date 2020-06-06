@@ -1,9 +1,9 @@
 - item: Inicio
   url: /
 - item: Desenvolvimento
-  url: "categories/development"
+  url: "tag/development"
 - item: NLP
-  url: "categories/natural-language-processing"
+  url: "categories/NLP"
 - item: Book Reviews
   url: "categories/book-reviews"
 - item: Categorias
