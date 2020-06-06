@@ -4,7 +4,6 @@
   url: "tag/development"
 - item: NLP
   url: "tags/NLP"
-- item: Book Reviews
+- item: Livros
   url: "tags/book-reviews"
-- item: Sobre-mim
-  url: "about/"
+
