@@ -2,7 +2,7 @@
 title = "About Hugo"
 date = "2014-04-09"
 image = 'read.jpg'
-draft = false
+draft = true
 share = false
 +++
 

@@ -1,9 +1,11 @@
 - item: Inicio
   url: /
 - item: Desenvolvimento
-  url: "tags/development"
+  url: "tags/development/"
 - item: NLP
-  url: "tags/NLP"
-- item: Livros
-  url: "tags/book-reviews"
+  url: "tags/nlp/"
+- item: Colinhas
+  url: "tags/colinhas/"
+- item: Resenhas de livros
+  url: "tags/book-reviews/"
 
