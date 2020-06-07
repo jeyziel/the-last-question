@@ -22,7 +22,7 @@ image = "o-fim-da-eternidade.png"
 +++
 
 
-### Quem poderá definir nosso futuro?
+### Quem pode definir nosso futuro?
 
 >"É enfrentando as grandes dificuldades que a humanidade consegue alcançar com mais êxito os grades objetivos. É do perigo e da insegurança que surge a força que impulsiona a humanidade para novas e grandiosas conquistas".
 
