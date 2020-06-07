@@ -1,7 +1,7 @@
 - item: Inicio
   url: /
 - item: Desenvolvimento
-  url: "tag/development"
+  url: "tags/development"
 - item: NLP
   url: "tags/NLP"
 - item: Livros
