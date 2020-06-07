@@ -15,8 +15,8 @@ categories = [
 ]
 author = "jeyziel Gama"
 image = "stuck.jpg"
-draft = false
 +++
+draft = false
 
 ## Step 1. Install Hugo
 

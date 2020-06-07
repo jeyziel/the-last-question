@@ -7,5 +7,9 @@ canonifyurls = true
 paginate = 4
 disqusShortname = 'jeyziel-github-io'
 
+[permalinks]
+  post = "/:slug/"
+
+
 [params]
     #blogDir = "posts"

@@ -6,6 +6,7 @@ categories = [
     "Machine Learning",
     "NLP"
 ]
+draft = false
 +++
 
 ## Step 1. Install Hugo
