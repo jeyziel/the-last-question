@@ -24,16 +24,14 @@ image = "o-fim-da-eternidade.png"
 
 ### Quem pode definir nosso futuro?
 
->"É enfrentando as grandes dificuldades que a humanidade consegue alcançar com mais êxito os grades objetivos. É do perigo e da insegurança que surge a força que impulsiona a humanidade para novas e grandiosas conquistas".
+>"É enfrentando as maiores dificuldades que a humanidade consegue alcançar os objetivos mais grandiosos. Da adversidade e da incerteza surge a força que impulsiona a humanidade para conquistas inimagináveis.
 
-No século 27, os humanos finalmente conseguiram desenvolver uma tecnologia de viagem no tempo que permitisse a criação de uma organização estabelecida fora do nosso tempo cronológico chamada de "Eternidade". A Eternidade era composta somente por pessoas que dominavam a tecnologia das viagens no tempo e que realizavam mudanças de realidade no mundo com o pretexto de manter o bem estar da humanidade.
+No século 27, a humanidade finalmente conseguiu desenvolver a tecnologia das viagens no tempo, criando assim uma organização chamada "Eternidade", que existia fora do nosso continuum temporal. A Eternidade era composta por indivíduos que dominavam a tecnologia das viagens no tempo e que usavam essa habilidade para efetuar mudanças na história humana, com o objetivo de promover o bem-estar da humanidade.
 
-Andrew harlan era um técnico da eternidade, cuja responsabilidade era observar os eventos indesejáveis no mundo e detectar o que desencadeou tal evento para que, voltando no tempo, sejam realizadas pequenas alterações fazendo com que o curso da história da humanidade siga de forma positiva.
+Andrew Harlan era um técnico da Eternidade, encarregado de observar eventos indesejáveis no mundo e identificar suas causas. Ele retornava no tempo para realizar pequenas alterações que direcionassem a história da humanidade de forma positiva. Cada mudança de realidade tinha o potencial de afetar milhões de vidas, razão pela qual os técnicos eram proibidos de estabelecer relações pessoais, amizades ou relacionamentos românticos que pudessem influenciá-los emocionalmente. Harlan seguia rigorosamente essas regras... até que Noÿs Lambet cruzou seu caminho.
 
-Em cada uma dessas mudanças de realidade, milhões de vidas podem ser alteradas e até mesmo excluídas. Por isso, um técnico não pode ter amizades, namoradas ou qualquer outra coisa que o influencie emocionalmente. Harlan era um técnico exemplar. Seguia essas regras à risca...até surgir Noÿs Lambet em sua vida.
+> "Ele queria a Noÿs que estava ali, naquele momento, a Noÿs desta realidade. Se ela tinha defeitos, ele os queria também."
 
-> "Queria aquela Noÿs, aquela que ele via naquele momento, a Noÿs desta Realidade. Se ela tinha defeitos, queria os defeitos também".
+Os primeiros capítulos do livro apresentam uma densa carga teórica, exigindo um esforço inicial para assimilar os conceitos que compõem o universo criado por Asimov. Superada essa fase, a leitura se torna envolvente e esclarecedora.
 
-Os capítulos iniciais do livro possuem uma carga teórica bem densa, sendo um pouco difícil assimilar todos os conceitos necessários para entender o universo criado por asimov. Superando essa fase, a leitura fica bastante agradável e tudo começa a fazer sentido.
-
-Em geral, é um livro bastante viciante, cheio de reflexões, com muitas reviravoltas e com um final surpreendente. Indico até mesmo para aqueles que não costumam ler ficção científica.
+Em resumo, "O Fim da Eternidade" é um livro cativante, repleto de reflexões, reviravoltas e um desfecho surpreendente. Recomendo-o mesmo para aqueles que não têm o hábito de ler ficção científica."
